@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - Arkworks [spongefish](https://github.com/arkworks-rs/spongefish/pulls?q=author%3Aaryaethn) (Rust), [Algebra](https://github.com/arkworks-rs/algebra/pulls?q=author%3Aaryaethn) (Rust)
 - LeanEthereum: [leanSpec](https://github.com/leanEthereum/leanSpec/pulls?q=author%3Aaryaethn) (doc review), [leanVM](https://github.com/leanEthereum/leanVM/pulls?q=author%3Aaryaethn) (Rust, PQ-VRF below), [leanSig](https://github.com/leanEthereum/leanSig/pulls?q=author%3Aaryaethn) (Rust)
 - ZcashFoundation: [frost-tools](https://github.com/ZcashFoundation/frost-tools/pulls?q=author%3Aaryaethn) (Rust)
+- FhenixProtocol: [cofhesdk](https://github.com/FhenixProtocol/cofhesdk/pulls?q=author%3Aaryaethn) 
 - Noir Lang: [awesome-noir](https://github.com/noir-lang/awesome-noir/pulls?q=author%3Aaryaethn) (adding Noir RLWE gadget, Solidity, Noir, Rust)
 - NethermindETH: [latticefold](https://github.com/NethermindEth/latticefold/pulls?q=author%3Aaryaethn) (Rust)
 
