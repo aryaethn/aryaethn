@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 - Noir Lang: [awesome-noir](https://github.com/noir-lang/awesome-noir/pulls?q=author%3Aaryaethn) (adding Noir RLWE gadget, Solidity, Noir, Rust)
 - NethermindETH: [latticefold](https://github.com/NethermindEth/latticefold/pulls?q=author%3Aaryaethn) (Rust)
 
+- Rango Exchange: [Dune profile](https://dune.com/rango_exchange) (DuneSQL, SQL), [Learn under Arya .ETH](https://rango.exchange/learn)
+
 ---
 ## 💻 My past personal projects
 
