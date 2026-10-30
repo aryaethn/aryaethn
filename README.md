@@ -68,3 +68,4 @@ Here are some ideas to get you started:
 ## 📫 How to reach me:
 
 Email: aryaethn@gmail.com
+Resume: [Resume.pdf](https://github.com/aryaethn/aryaethn/blob/main/Aria_Naraghi_Resume.pdf)
