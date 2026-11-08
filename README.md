@@ -44,16 +44,30 @@ Here are some ideas to get you started:
 ---
 ## 💻 My past personal projects
 
-- [CryptoHack Profile](https://cryptohack.org/user/Aryaethn/)
+### Projects and PoCs
+
 - [zkBacktest: Succinct zero-knowledge proofs of trading-strategy backtests](https://github.com/aryaethn/zkBacktest)
-- [Ashlar: an AO hash from an R1CS-optimal squaring degree engine](https://github.com/aryaethn/ashlar)
-- [Quantum Soundness of Grinding in Hash-Based SNARKs](https://github.com/aryaethn/grinding-qrom)
 - [Privacy Preserving Account Recovery (PPAR)](https://github.com/aryaethn/Privacy-Preserving-Account-Recovery)
-- [A Post-Quantum VRF for Ethereum](https://ethresear.ch/t/randao-breaks-at-l-a-post-quantum-vrf-for-ethereum/24906)
-- [Free-XOR Garbling Is Not Binding Against the Garbler](https://github.com/aryaethn/garbler-binding)
+- [Ashlar: an AO hash from an R1CS-optimal squaring degree engine](https://github.com/aryaethn/ashlar)
 - [Noir RLWE Gadget](https://github.com/aryaethn/noir-rlwe-gadgets)
 - [HTLP: Linearly homomorphic time-lock puzzle](https://github.com/aryaethn/htlp)
+
+### Ethereum-Related Researches
+
+- [A Post-Quantum VRF for Ethereum](https://ethresear.ch/t/randao-breaks-at-l-a-post-quantum-vrf-for-ethereum/24906)
+- [Reveal Optionality in Encrypted Mempools](https://ethresear.ch/t/reveal-optionality-in-encrypted-mempools-how-big-is-the-sender-s-free-option-and-a-post-quantum-way-to-remove-it/26169)
+- [Folding vs. Full-verifier Recursions for PQ Signature Aggregation](https://ethresear.ch/t/folding-vs-full-verifier-recursion-for-pq-signature-aggregation-in-leanvm-measurements-and-negative-results/26227)
+
+
+### Other Researches
+
+- [Free-XOR Garbling Is Not Binding Against the Garbler](https://github.com/aryaethn/garbler-binding)
+- [Quantum Soundness of Grinding in Hash-Based SNARKs](https://github.com/aryaethn/grinding-qrom)
+
+### Challenges and Puzzels
+
 - [zkHack Puzzles](https://github.com/aryaethn/ZKHack-Puzzles)
+- [CryptoHack Profile](https://cryptohack.org/user/Aryaethn/)
 
 ---
 
