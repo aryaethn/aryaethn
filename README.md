@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on
 
-- [ArkLib](https://github.com/Verified-zkEVM/ArkLib) and [LeanerVM](https://github.com/Verified-zkEVM/leanerVM) repositories, as a contributor. (Lean 4 language :D)
+- [ArkLib](https://github.com/Verified-zkEVM/ArkLib) and [LeanerVM](https://github.com/Verified-zkEVM/leanerVM) repositories, as a contributor. (Lean 4)
 - My privacy layer project on top of Polymarket that unlinks the bettor and bet on every link using ZKPs, called [PolyShield](https://polyshield.xyz). (Circom, Solidity, TypeScript)
 - Other personal projects and researches that will be added below :D
 
