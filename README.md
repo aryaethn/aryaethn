@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 ## 🔙 My past contributions
 
+- Verified-zkEVM: [leanerVM](https://github.com/Verified-zkEVM/leanerVM/pulls?q=author%3Aaryaethn) (Lean)
 - Ethereum Security: [Swarm Core](https://github.com/protocol-security/swarm-core/pulls?q=author%3Aaryaethn) (Shell)
 - Arkworks [spongefish](https://github.com/arkworks-rs/spongefish/pulls?q=author%3Aaryaethn) (Rust), [Algebra](https://github.com/arkworks-rs/algebra/pulls?q=author%3Aaryaethn) (Rust)
 - LeanEthereum: [leanSpec](https://github.com/leanEthereum/leanSpec/pulls?q=author%3Aaryaethn) (doc review), [leanVM](https://github.com/leanEthereum/leanVM/pulls?q=author%3Aaryaethn) (Rust, PQ-VRF below), [leanSig](https://github.com/leanEthereum/leanSig/pulls?q=author%3Aaryaethn) (Rust)
