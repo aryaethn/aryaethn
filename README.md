@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on
 
-- [ArkLib](https://github.com/Verified-zkEVM/ArkLib) repository, as a contributor. (Lean 4)
+- [ArkLib](https://github.com/Verified-zkEVM/ArkLib/issues?q=author%3Aaryaethn) and [VCVio](https://github.com/Verified-zkEVM/VCVio/issues?q=author%3Aaryaethn) repositories, as a contributor. (Lean 4)
 - My privacy layer project on top of Polymarket that unlinks the bettor and bet on every link using ZKPs, called [PolyShield](https://polyshield.xyz). (Circom, Solidity, TypeScript)
 - Other personal projects and researches that will be added below :D
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## 🔙 My past contributions
 
-- Verified-zkEVM: [leanerVM](https://github.com/Verified-zkEVM/leanerVM/pulls?q=author%3Aaryaethn) (Lean)
+- Verified-zkEVM: [leanerVM](https://github.com/Verified-zkEVM/leanerVM/issues?q=author%3Aaryaethn) (Lean)
 - Ethereum Security: [Swarm Core](https://github.com/protocol-security/swarm-core/pulls?q=author%3Aaryaethn) (Shell)
 - Arkworks [spongefish](https://github.com/arkworks-rs/spongefish/pulls?q=author%3Aaryaethn) (Rust), [Algebra](https://github.com/arkworks-rs/algebra/pulls?q=author%3Aaryaethn) (Rust)
 - LeanEthereum: [leanSpec](https://github.com/leanEthereum/leanSpec/pulls?q=author%3Aaryaethn) (doc review), [leanVM](https://github.com/leanEthereum/leanVM/pulls?q=author%3Aaryaethn) (Rust, PQ-VRF below), [leanSig](https://github.com/leanEthereum/leanSig/pulls?q=author%3Aaryaethn) (Rust)
